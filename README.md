@@ -10,3 +10,5 @@ ___
 
 
 (http://www.naver.com) 문서로.
+
+[하마](http://thumb.photo.naver.net/exphoto01/imageN/2010/08/31/IMH0000131.jpg,"설명")
