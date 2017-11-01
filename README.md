@@ -19,3 +19,5 @@
 
 [2] http://www.daum.net/ "¥Ÿ¿Ω"
 
+
+<http://www.naver.com>
